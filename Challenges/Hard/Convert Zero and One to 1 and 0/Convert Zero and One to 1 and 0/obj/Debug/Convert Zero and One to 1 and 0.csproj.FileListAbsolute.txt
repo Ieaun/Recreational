@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\SVN 2020\ieaun\Challenges\Hard\Convert Zero and One to 1 and 0\Convert Zero and One to 1 and 0\bin\Debug\Convert Zero and One to 1 and 0.exe.config
+C:\Users\user\Desktop\SVN 2020\ieaun\Challenges\Hard\Convert Zero and One to 1 and 0\Convert Zero and One to 1 and 0\bin\Debug\Convert Zero and One to 1 and 0.exe
+C:\Users\user\Desktop\SVN 2020\ieaun\Challenges\Hard\Convert Zero and One to 1 and 0\Convert Zero and One to 1 and 0\bin\Debug\Convert Zero and One to 1 and 0.pdb
+C:\Users\user\Desktop\SVN 2020\ieaun\Challenges\Hard\Convert Zero and One to 1 and 0\Convert Zero and One to 1 and 0\obj\Debug\Convert Zero and One to 1 and 0.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SVN 2020\ieaun\Challenges\Hard\Convert Zero and One to 1 and 0\Convert Zero and One to 1 and 0\obj\Debug\Convert Zero and One to 1 and 0.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SVN 2020\ieaun\Challenges\Hard\Convert Zero and One to 1 and 0\Convert Zero and One to 1 and 0\obj\Debug\Convert Zero and One to 1 and 0.exe
+C:\Users\user\Desktop\SVN 2020\ieaun\Challenges\Hard\Convert Zero and One to 1 and 0\Convert Zero and One to 1 and 0\obj\Debug\Convert Zero and One to 1 and 0.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\SVN 2020\ieaun\Challenges\Meduim\Characters Counterpart Char Code\Characters Counterpart Char Code\bin\Debug\Characters Counterpart Char Code.exe.config
+C:\Users\user\Desktop\SVN 2020\ieaun\Challenges\Meduim\Characters Counterpart Char Code\Characters Counterpart Char Code\bin\Debug\Characters Counterpart Char Code.exe
+C:\Users\user\Desktop\SVN 2020\ieaun\Challenges\Meduim\Characters Counterpart Char Code\Characters Counterpart Char Code\bin\Debug\Characters Counterpart Char Code.pdb
+C:\Users\user\Desktop\SVN 2020\ieaun\Challenges\Meduim\Characters Counterpart Char Code\Characters Counterpart Char Code\obj\Debug\Characters Counterpart Char Code.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SVN 2020\ieaun\Challenges\Meduim\Characters Counterpart Char Code\Characters Counterpart Char Code\obj\Debug\Characters Counterpart Char Code.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SVN 2020\ieaun\Challenges\Meduim\Characters Counterpart Char Code\Characters Counterpart Char Code\obj\Debug\Characters Counterpart Char Code.exe
+C:\Users\user\Desktop\SVN 2020\ieaun\Challenges\Meduim\Characters Counterpart Char Code\Characters Counterpart Char Code\obj\Debug\Characters Counterpart Char Code.pdb
