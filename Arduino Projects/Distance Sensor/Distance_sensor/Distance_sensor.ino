@@ -1,6 +1,4 @@
-/*   Blink   Turns on an LED on for one second, then off for one second, repeatedly.     This example code is in the public domain.  */   
-// Pin 13 has an LED connected on most Arduino boards.
-// give it a name: 
+//LEDs
 int led5 = 12; 
 int led4 = 11; 
 int led3 = 10; 
@@ -9,6 +7,7 @@ int led1 = 8;
 const int MaxLED = 5;
 int CurrentLed =  1;
 
+//Ultrasonic Sensor
 const int trigPin = 7;
 const int echoPin = 6;
 // defines variables
