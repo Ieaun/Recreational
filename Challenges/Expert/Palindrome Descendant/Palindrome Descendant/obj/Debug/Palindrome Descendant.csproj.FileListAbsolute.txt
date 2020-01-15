@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\SVN 2020\ieaun\Challenges\Expert\Palindrome Descendant\Palindrome Descendant\bin\Debug\Palindrome Descendant.exe.config
+C:\Users\user\Desktop\SVN 2020\ieaun\Challenges\Expert\Palindrome Descendant\Palindrome Descendant\bin\Debug\Palindrome Descendant.exe
+C:\Users\user\Desktop\SVN 2020\ieaun\Challenges\Expert\Palindrome Descendant\Palindrome Descendant\bin\Debug\Palindrome Descendant.pdb
+C:\Users\user\Desktop\SVN 2020\ieaun\Challenges\Expert\Palindrome Descendant\Palindrome Descendant\obj\Debug\Palindrome Descendant.csprojAssemblyReference.cache
+C:\Users\user\Desktop\SVN 2020\ieaun\Challenges\Expert\Palindrome Descendant\Palindrome Descendant\obj\Debug\Palindrome Descendant.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SVN 2020\ieaun\Challenges\Expert\Palindrome Descendant\Palindrome Descendant\obj\Debug\Palindrome Descendant.exe
+C:\Users\user\Desktop\SVN 2020\ieaun\Challenges\Expert\Palindrome Descendant\Palindrome Descendant\obj\Debug\Palindrome Descendant.pdb
