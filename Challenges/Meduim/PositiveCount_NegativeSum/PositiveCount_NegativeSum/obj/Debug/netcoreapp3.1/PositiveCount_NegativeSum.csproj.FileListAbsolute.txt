@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\GIT_Projects\Recreational\Challenges\Meduim\PositiveCount_NegativeSum\PositiveCount_NegativeSum\bin\Debug\netcoreapp3.1\PositiveCount_NegativeSum.exe
+C:\Users\user\Desktop\GIT_Projects\Recreational\Challenges\Meduim\PositiveCount_NegativeSum\PositiveCount_NegativeSum\bin\Debug\netcoreapp3.1\PositiveCount_NegativeSum.deps.json
+C:\Users\user\Desktop\GIT_Projects\Recreational\Challenges\Meduim\PositiveCount_NegativeSum\PositiveCount_NegativeSum\bin\Debug\netcoreapp3.1\PositiveCount_NegativeSum.runtimeconfig.json
+C:\Users\user\Desktop\GIT_Projects\Recreational\Challenges\Meduim\PositiveCount_NegativeSum\PositiveCount_NegativeSum\bin\Debug\netcoreapp3.1\PositiveCount_NegativeSum.runtimeconfig.dev.json
+C:\Users\user\Desktop\GIT_Projects\Recreational\Challenges\Meduim\PositiveCount_NegativeSum\PositiveCount_NegativeSum\bin\Debug\netcoreapp3.1\PositiveCount_NegativeSum.dll
+C:\Users\user\Desktop\GIT_Projects\Recreational\Challenges\Meduim\PositiveCount_NegativeSum\PositiveCount_NegativeSum\bin\Debug\netcoreapp3.1\PositiveCount_NegativeSum.pdb
+C:\Users\user\Desktop\GIT_Projects\Recreational\Challenges\Meduim\PositiveCount_NegativeSum\PositiveCount_NegativeSum\obj\Debug\netcoreapp3.1\PositiveCount_NegativeSum.csprojAssemblyReference.cache
+C:\Users\user\Desktop\GIT_Projects\Recreational\Challenges\Meduim\PositiveCount_NegativeSum\PositiveCount_NegativeSum\obj\Debug\netcoreapp3.1\PositiveCount_NegativeSum.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GIT_Projects\Recreational\Challenges\Meduim\PositiveCount_NegativeSum\PositiveCount_NegativeSum\obj\Debug\netcoreapp3.1\PositiveCount_NegativeSum.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GIT_Projects\Recreational\Challenges\Meduim\PositiveCount_NegativeSum\PositiveCount_NegativeSum\obj\Debug\netcoreapp3.1\PositiveCount_NegativeSum.AssemblyInfo.cs
+C:\Users\user\Desktop\GIT_Projects\Recreational\Challenges\Meduim\PositiveCount_NegativeSum\PositiveCount_NegativeSum\obj\Debug\netcoreapp3.1\PositiveCount_NegativeSum.dll
+C:\Users\user\Desktop\GIT_Projects\Recreational\Challenges\Meduim\PositiveCount_NegativeSum\PositiveCount_NegativeSum\obj\Debug\netcoreapp3.1\PositiveCount_NegativeSum.pdb
+C:\Users\user\Desktop\GIT_Projects\Recreational\Challenges\Meduim\PositiveCount_NegativeSum\PositiveCount_NegativeSum\obj\Debug\netcoreapp3.1\PositiveCount_NegativeSum.genruntimeconfig.cache

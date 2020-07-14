@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fnhha9oMP7m3POE3dF5rT3/z6CIdrATydgIUTJ3UTogE+Qmp8db9yeu3/ljBIOFGk+lpiUvbxs+yd6YKLes9iQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\GIT_Projects\\Recreational\\Challenges\\Hard\\ReverseCodingChallenge_1\\ReverseCodingChallenge_1\\ReverseCodingChallenge_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

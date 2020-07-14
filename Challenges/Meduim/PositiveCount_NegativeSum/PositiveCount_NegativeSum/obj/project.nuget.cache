@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UTJSf0fZxsAK3hbx+AfDNGbqR3kRPDfEc2qtS8JvUha5Prc1YZMIaimiUJP6R8k1Fhec9wSjVvvugMKrdX5FSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\GIT_Projects\\Recreational\\Challenges\\Meduim\\PositiveCount_NegativeSum\\PositiveCount_NegativeSum\\PositiveCount_NegativeSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "w6K9acndqITKh+/S4fNr291dqotUgnuuyw+eIcHHpJb7hps9VbUrWQKOjYL6Q+05fDAlYr4WBUYWh0GMyuRL2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\GIT_Projects\\Recreational\\Challenges\\Expert\\Anagram_String_in_Another_String\\Anagram_String_in_Another_String\\Anagram_String_in_Another_String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

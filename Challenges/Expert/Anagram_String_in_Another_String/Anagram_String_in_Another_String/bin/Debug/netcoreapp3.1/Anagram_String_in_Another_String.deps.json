@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Anagram_String_in_Another_String/1.0.0": {
+        "runtime": {
+          "Anagram_String_in_Another_String.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Anagram_String_in_Another_String/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zvevIHNuUI5retyCIqKFs8/dfFJoEToDw1UFoljViULPtWxlcboFquQ7CiUj+lPX27MXB5JFYMN+Mc0FRgyc+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\GIT_Projects\\Recreational\\Challenges\\Easy\\The farm Problem\\The farm Problem\\The farm Problem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
